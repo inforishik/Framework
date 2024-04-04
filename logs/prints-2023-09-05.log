@@ -1,0 +1,8 @@
+01:39:39.453 [main] INFO  resources.base - driver is inatialize
+01:40:11.429 [main] INFO  resources.base - Navigate to home page
+01:40:11.431 [main] INFO  resources.base - Successifully validated text massage
+01:55:16.561 [main] INFO  resources.base - restricted user
+01:55:37.237 [main] INFO  resources.base - Restricted user
+01:55:42.016 [main] INFO  resources.base - driver is inatialize
+01:56:14.589 [main] INFO  resources.base - Navigate to home page
+01:56:14.591 [main] INFO  resources.base - Successifully validated text massage
